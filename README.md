@@ -4,7 +4,7 @@ The OLA Data Analyst Project analyzes ride-booking data using SQL and Power BI t
 
 ## 🎥 Demo
 
-![Alt Text](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Ola%20DA%20Project%20DEMO.gif)
+![Alt Text](https://github.com/aryankumar106/-OLA-Data-Analyst-Project-Power-BI-SQL/blob/fb5f0c83d0a94dd289f9e720c04d91c0e5ef3057/Ola%20DA%20Project%20DEMO.gif)
 
 > [!NOTE]
 > Click the dropdown list below for more information on SQL or Power BI.
@@ -510,4 +510,5 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
 </details>
 
 ---
+
 
