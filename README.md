@@ -115,7 +115,7 @@ WHERE Booking_Status = 'Success';
 SELECT * FROM Successful_Bookings;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20062720.png)
+![Description of the screenshot](https://github.com/aryankumar106/-OLA-Data-Analyst-Project-Power-BI-SQL/blob/7edf93797e63ea5b48e4e87a3a313d1348077b1e/Images/SQL%20Images/Screenshot%202024-12-16%20062720.png)
 
 ---
 
@@ -136,7 +136,7 @@ GROUP BY Vehicle_Type;
 SELECT * FROM ride_distance_for_each_vehicle;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063354.png)
+![Description of the screenshot](https://github.com/aryankumar106/-OLA-Data-Analyst-Project-Power-BI-SQL/blob/7edf93797e63ea5b48e4e87a3a313d1348077b1e/Images/SQL%20Images/Screenshot%202024-12-16%20063354.png)
 
 ---
 
@@ -157,7 +157,7 @@ WHERE Booking_Status = 'cancelled by Customer';
 SELECT * FROM cancelled_rides_by_customers;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063653.png)
+![Description of the screenshot](https://github.com/aryankumar106/-OLA-Data-Analyst-Project-Power-BI-SQL/blob/7edf93797e63ea5b48e4e87a3a313d1348077b1e/Images/SQL%20Images/Screenshot%202024-12-16%20063653.png)
 
 ---
 
@@ -180,7 +180,7 @@ LIMIT 5;
 SELECT * FROM Top_5_Customers;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063859.png)
+![Description of the screenshot](https://github.com/aryankumar106/-OLA-Data-Analyst-Project-Power-BI-SQL/blob/7edf93797e63ea5b48e4e87a3a313d1348077b1e/Images/SQL%20Images/Screenshot%202024-12-16%20063859.png)
 
 ---
 
@@ -201,7 +201,7 @@ WHERE cancelled_Rides_by_Driver = 'Personal & Car related issue';
 SELECT * FROM Rides_cancelled_by_Drivers_P_C_Issues;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064122.png)
+![Description of the screenshot](https://github.com/aryankumar106/-OLA-Data-Analyst-Project-Power-BI-SQL/blob/7edf93797e63ea5b48e4e87a3a313d1348077b1e/Images/SQL%20Images/Screenshot%202024-12-16%20064122.png)
 
 ---
 
@@ -223,7 +223,7 @@ WHERE Vehicle_Type = 'Prime Sedan';
 SELECT * FROM Max_Min_Driver_Rating;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064314.png)
+![Description of the screenshot](https://github.com/aryankumar106/-OLA-Data-Analyst-Project-Power-BI-SQL/blob/7edf93797e63ea5b48e4e87a3a313d1348077b1e/Images/SQL%20Images/Screenshot%202024-12-16%20064314.png)
 
 ---
 
@@ -244,7 +244,7 @@ WHERE Payment_Method = 'UPI';
 SELECT * FROM UPI_Payment;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064820.png)
+![Description of the screenshot](https://github.com/aryankumar106/-OLA-Data-Analyst-Project-Power-BI-SQL/blob/7edf93797e63ea5b48e4e87a3a313d1348077b1e/Images/SQL%20Images/Screenshot%202024-12-16%20064820.png)
 
 ---
 
@@ -265,7 +265,7 @@ GROUP BY Vehicle_Type;
 SELECT * FROM AVG_Cust_Rating;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064923.png)
+![Description of the screenshot](https://github.com/aryankumar106/-OLA-Data-Analyst-Project-Power-BI-SQL/blob/7edf93797e63ea5b48e4e87a3a313d1348077b1e/Images/SQL%20Images/Screenshot%202024-12-16%20064923.png)
 
 ---
 
@@ -286,7 +286,7 @@ WHERE Booking_Status = 'Success';
 SELECT * FROM total_successful_ride_value;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20065052.png)
+![Description of the screenshot](https://github.com/aryankumar106/-OLA-Data-Analyst-Project-Power-BI-SQL/blob/7edf93797e63ea5b48e4e87a3a313d1348077b1e/Images/SQL%20Images/Screenshot%202024-12-16%20065052.png)
 
 ---
 
@@ -307,7 +307,7 @@ WHERE Incomplete_Rides = 'Yes';
 SELECT * FROM Incomplete_Rides_Reason;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20065216.png)
+![Description of the screenshot](https://github.com/aryankumar106/-OLA-Data-Analyst-Project-Power-BI-SQL/blob/7edf93797e63ea5b48e4e87a3a313d1348077b1e/Images/SQL%20Images/Screenshot%202024-12-16%20065216.png)
 
 ---
 
@@ -510,5 +510,6 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
 </details>
 
 ---
+
 
 
